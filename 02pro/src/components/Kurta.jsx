@@ -1,19 +1,19 @@
 import React from 'react'
 import Img1 from "../assets/k19.jpg";
 import Img2 from "../assets/k6.jpg";
-import Img3 from "../assets/k7.jpg";
-import Img4 from "../assets/k8.jpg";
-import Img5 from "../assets/k9.jpg";
+import Img3 from "../assets/k1.jpg";
+import Img4 from "../assets/k2.jpg";
+import Img5 from "../assets/k3.jpg";
 import Img6 from "../assets/k1.jpg";
 import Img7 from "../assets/k2.jpg";
 import Img8 from "../assets/k3.jpg";
 import Img9 from "../assets/k4.jpg";
 import Img10 from "../assets/k5.jpg";
-import Img11 from "../assets/k10.jpg";
-import Img12 from "../assets/k11.jpg";
-import Img13 from "../assets/k12.jpg";
-import Img14 from "../assets/k13.jpg";
-import Img15 from "../assets/k14.jpg";
+import Img11 from "../assets/k19.jpg";
+import Img12 from "../assets/k6.jpg";
+import Img13 from "../assets/k5.jpg";
+import Img14 from "../assets/k3.jpg";
+import Img15 from "../assets/k2.jpg";
 
 
 import { FaStar } from "react-icons/fa6";
